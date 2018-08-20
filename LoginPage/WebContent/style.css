@@ -1,0 +1,59 @@
+h1{
+		
+			color: red;
+			background-color:black;
+			text-align: center;
+			
+		}
+		body{
+		
+			background-color: black;
+			
+		}
+		div{
+
+			text-align: center;
+			
+			margin-top: 1in;
+			margin-left: 5.5in;
+			
+			
+			background-color: buttonshadow;
+			
+			width: 500px;
+			padding-top: 65px;
+			padding-bottom: 35px;
+			 resize: both;
+    		overflow: auto;
+		}
+		.txt{
+		
+			font-family:cursive;
+			font-size: medium;
+			
+		}
+		
+		input[type=text],[type=password], select {
+    width: 80%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    
+}
+
+	input[type=submit] {
+    width: 80%;
+    background-color: black;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    
+    input[type=submit]:hover {
+   		 background-color: #FF0012;
+	}
